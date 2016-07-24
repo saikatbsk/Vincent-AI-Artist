@@ -11,7 +11,7 @@ DISCLAIMER: The author of this code shall not be responsible for any kind of han
 * Keras (http://keras.io/)
 * Scipy  (https://www.scipy.org/)
 * Theano (http://deeplearning.net/software/theano/)
-* h5py (http://docs.h5py.org/en/)
+* h5py (http://h5py.org/)
 * sklearn (http://scikit-learn.org/)
 * VGG16 file (https://drive.google.com/file/d/0Bz7KyqmuGsilT0J5dmRCM0ROVHc/view?usp=sharing)
 
