@@ -2,8 +2,6 @@
 
 Yet another amateur implementation of a neural algorithm for artistic style transfer. Feel free to criticize, copy/share. Basically, do whatever you want to do with the code.
 
-DISCLAIMER: The author of this code shall not be responsible for any kind of hang/freeze, or permanent damage to your system.
-
 ### Requirements
 
 * Numpy (http://www.numpy.org/)
