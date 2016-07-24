@@ -17,4 +17,4 @@ DISCLAIMER: The author of this code shall not be responsible for any kind of han
 ### References
 
 * Inceptionism: Going Deeper into Neural Networks (https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html)
-* A Neural Algorithm for Artistic Style (http://arxiv.org/pdf/1508.06576v2.pdf)
+* A Neural Algorithm of Artistic Style (http://arxiv.org/pdf/1508.06576v2.pdf)
