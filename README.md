@@ -14,6 +14,10 @@ DISCLAIMER: The author of this code shall not be responsible for any kind of han
 * sklearn (http://scikit-learn.org/)
 * VGG16 file (https://drive.google.com/file/d/0Bz7KyqmuGsilT0J5dmRCM0ROVHc/view?usp=sharing)
 
+### Basic Usage
+
+```python main.py --base_img_path /path/to/base/image --style_img_path /path/to/artistic/image --result_prefix output```
+
 ### References
 
 * Inceptionism: Going Deeper into Neural Networks (https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html)
