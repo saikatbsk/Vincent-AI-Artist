@@ -16,7 +16,9 @@ DISCLAIMER: The author of this code shall not be responsible for any kind of han
 
 ### Basic Usage
 
-```python main.py --base_img_path /path/to/base/image --style_img_path /path/to/artistic/image --result_prefix output```
+```
+python main.py --base_img_path /path/to/base/image --style_img_path /path/to/artistic/image --result_prefix output
+```
 
 ### References
 
