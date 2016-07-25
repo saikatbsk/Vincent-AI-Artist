@@ -7,6 +7,7 @@ Yet another amateur implementation of a neural algorithm for artistic style tran
 * Numpy (http://www.numpy.org/)
 * Keras (http://keras.io/)
 * Scipy  (https://www.scipy.org/)
+* Pillow (https://python-pillow.org/)
 * Theano (http://deeplearning.net/software/theano/)
 * h5py (http://h5py.org/)
 * sklearn (http://scikit-learn.org/)
