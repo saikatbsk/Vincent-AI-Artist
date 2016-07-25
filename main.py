@@ -301,7 +301,7 @@ for i in range(num_iter):
     print('Current loss value: ', min_val)
 
     # Step 3 : get generated image
-    img = deprocess(x.reshare((3, img_width, img_height)))
+    img = deprocess(x.reshape((3, img_width, img_height)))
 
     # Step 4 : keep aspect ratio
     if (keep_aspect) & (not rescale):
