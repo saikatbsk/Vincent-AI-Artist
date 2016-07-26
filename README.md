@@ -21,9 +21,17 @@ python main.py --base_img_path /path/to/base/image --style_img_path /path/to/art
 
 ### Results
 
-|![base_image][base_image]|![artistic_image][artistic_image]|
-|-------------------------|
-|![output][output]|
+<table>
+    <tr>
+        <td>
+            <div style="width: 60%; float: left; padding: 2px">![base_image][base_image]</div>
+            <div style="width: 40%; float: left; padding: 2px">![artistic_image][artistic_image]</div>
+        </td>
+    </tr>
+    <tr>
+        <td>![output][output]</td>
+    </tr>
+</table>
 
 [base_image]: img/00/base_image.jpg
 [artistic_image]: img/00/artistic_image-picasso-las-meninas.jpg
