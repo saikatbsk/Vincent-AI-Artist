@@ -21,7 +21,8 @@ python main.py --base_img_path /path/to/base/image --style_img_path /path/to/art
 
 ### Results
 
-![result_00](img/00/out_00.png)
+|![result_00](img/00/out_00.png)|
+|-------------------------------|
 
 ### References
 
