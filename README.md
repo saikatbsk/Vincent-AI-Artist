@@ -19,6 +19,16 @@ Yet another amateur implementation of a neural algorithm for artistic style tran
 python main.py --base_img_path /path/to/base/image --style_img_path /path/to/artistic/image --result_prefix output
 ```
 
+### Results
+
+|![base_image][base_image]|![artistic_image][artistic_image]|
+|-------------------------|
+|![output][output]|
+
+[base_image]: img/00/base_image.jpg
+[artistic_image]: img/00/artistic_image-picasso-las-meninas.jpg
+[output]: img/00/output_at_iteration_10.jpg
+
 ### References
 
 * Inceptionism: Going Deeper into Neural Networks (https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html)
