@@ -25,10 +25,10 @@ python main.py --base_img_path /path/to/base/image --style_img_path /path/to/art
     <tr>
         <td>
             <div style="width: 60%; float: left; padding: 2px">
-                <img src="img/00/base_image.jpg" alt="base_image">
+                <img style="width: 100%" src="img/00/base_image.jpg" alt="base_image">
             </div>
             <div style="width: 40%; float: left; padding: 2px">
-                <img src="img/00/artistic_image-picasso-las-meninas.jpg" alt="artistic_image">
+                <img style="width: 100%" src="img/00/artistic_image-picasso-las-meninas.jpg" alt="artistic_image">
             </div>
         </td>
     </tr>
