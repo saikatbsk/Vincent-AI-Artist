@@ -1,6 +1,6 @@
 # Vincent : AI Artist
 
-Yet another amateur implementation of a neural algorithm for artistic style transfer. Feel free to criticize, copy/share. Basically, do whatever you want to do with the code.
+A neural algorithm for artistic style transfer. Feel free to criticize, copy/share. Basically, do whatever you want to do with the code.
 
 ### Requirements
 
