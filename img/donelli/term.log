@@ -1,0 +1,23 @@
+python main.py --base_img_path img/tmp_base/face.jpg --style_img_path img/tmp_art/donelli.jpg --result_prefix output_style_donelli
+Using Theano backend.
+Model loaded.
+Starting iteration 1
+Current loss value:  245169600.0
+Image saved as:  output_style_donelli_at_iteration_1.jpg
+Iteration 1 completed in 20682s
+Starting iteration 2
+Current loss value:  113565448.0
+Image saved as:  output_style_donelli_at_iteration_2.jpg
+Iteration 2 completed in 23860s
+Starting iteration 3
+Current loss value:  51817188.0
+Image saved as:  output_style_donelli_at_iteration_3.jpg
+Iteration 3 completed in 23454s
+Starting iteration 4
+Current loss value:  29557422.0
+Image saved as:  output_style_donelli_at_iteration_4.jpg
+Iteration 4 completed in 24247s
+Starting iteration 5
+Current loss value:  19284080.0
+Image saved as:  output_style_donelli_at_iteration_5.jpg
+Iteration 5 completed in 20699s
