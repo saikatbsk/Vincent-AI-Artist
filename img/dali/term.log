@@ -1,0 +1,23 @@
+python main.py --base_img_path img/donelli/input_base_face.jpg --style_img_path img/tmp_art/the-persistence-of-memory-1931.jpg  --result_prefix output_style_dali --num_iter 5
+Using Theano backend.
+Model loaded.
+Starting iteration 1
+Current loss value:  85786920.0
+Image saved as:  output_style_dali_at_iteration_1.jpg
+Iteration 1 completed in 23350s
+Starting iteration 2
+Current loss value:  24180358.0
+Image saved as:  output_style_dali_at_iteration_2.jpg
+Iteration 2 completed in 23162s
+Starting iteration 3
+Current loss value:  11172733.0
+Image saved as:  output_style_dali_at_iteration_3.jpg
+Iteration 3 completed in 24905s
+Starting iteration 4
+Current loss value:  7432975.5
+Image saved as:  output_style_dali_at_iteration_4.jpg
+Iteration 4 completed in 23329s
+Starting iteration 5
+Current loss value:  5434838.0
+Image saved as:  output_style_dali_at_iteration_5.jpg
+Iteration 5 completed in 20356s

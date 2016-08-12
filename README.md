@@ -21,7 +21,7 @@ python main.py --base_img_path /path/to/base/image --style_img_path /path/to/art
 
 ### Results
 
-|![result_00](img/donelli/output.png)|
+|![result_00](img/outputs.png)|
 |-------------------------------|
 
 ### References
