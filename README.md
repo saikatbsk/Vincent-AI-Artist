@@ -4,6 +4,7 @@ Vincent is an attempt to implement "a neural algorithm of artistic style". A con
 
 ### Requirements
 
+* Python >=3.0 (https://www.python.org/downloads/)
 * Numpy (http://www.numpy.org/)
 * Keras (http://keras.io/)
 * Scipy  (https://www.scipy.org/)
