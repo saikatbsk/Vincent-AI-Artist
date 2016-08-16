@@ -17,7 +17,7 @@ Vincent is an attempt to implement "a neural algorithm of artistic style". A con
 ### Basic Usage
 
 ```
-python main.py --base_img_path /path/to/base/image --style_img_path /path/to/artistic/image --result_prefix output
+python3 main.py --base_img_path /path/to/base/image --style_img_path /path/to/artistic/image --result_prefix output
 ```
 
 ### Results
