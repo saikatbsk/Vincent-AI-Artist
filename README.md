@@ -11,7 +11,7 @@ Vincent is an attempt to implement "a neural algorithm of artistic style". A con
 * Pillow (https://python-pillow.org/)
 * Theano (http://deeplearning.net/software/theano/)
 * h5py (http://h5py.org/)
-* sklearn (http://scikit-learn.org/)
+* Sklearn (http://scikit-learn.org/)
 * VGG16 file (https://drive.google.com/file/d/0Bz7KyqmuGsilT0J5dmRCM0ROVHc/view?usp=sharing)
 
 ### Basic Usage
