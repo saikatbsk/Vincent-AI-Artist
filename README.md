@@ -1,6 +1,6 @@
 # Vincent : AI Artist
 
-Vincent is an attempt to implement "a neural algorithm of artistic style". A convolutional neural network (CNN) separates 'style' and 'content' from artistic images, and combines that artistic style with another image to create a unique expression.
+Style transfer is the technique of recomposing images in the style of other images. Vincent tries to achieve that with a Convolutional Neural Network (CNN) comprising of 31 hidden layers.
 
 ### Requirements
 
