@@ -16,6 +16,8 @@ from keras.models import Sequential
 from keras.layers.convolutional import Convolution2D, ZeroPadding2D, AveragePooling2D
 from keras import backend as Kr
 
+Kr.set_image_dim_ordering('th')
+
 # Command line arguments
 parser = argparse.ArgumentParser(description='AI Artist')
 
