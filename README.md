@@ -1,6 +1,6 @@
 # Vincent : AI Artist
 
-Style transfer is the technique of recomposing images in the style of other images. Vincent tries to achieve that with a Convolutional Neural Network (CNN) comprising of 31 hidden layers.
+Style transfer is the technique of recomposing images in the style of other images.
 
 ### Requirements
 
