@@ -4,7 +4,7 @@ Style transfer is the technique of recomposing images in the style of other imag
 
 ### Requirements
 
-* Python >=3.0 (https://www.python.org/downloads/)
+* Python (https://www.python.org/downloads/)
 * Numpy (http://www.numpy.org/)
 * Keras (http://keras.io/)
 * Scipy  (https://www.scipy.org/)
